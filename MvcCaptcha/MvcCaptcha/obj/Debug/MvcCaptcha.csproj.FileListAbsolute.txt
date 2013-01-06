@@ -1,0 +1,5 @@
+E:\2012\MvcCaptcha\MvcCaptcha\obj\Debug\MvcCaptcha.csprojResolveAssemblyReference.cache
+E:\2012\MvcCaptcha\MvcCaptcha\bin\Debug\MvcCaptcha.dll
+E:\2012\MvcCaptcha\MvcCaptcha\bin\Debug\MvcCaptcha.pdb
+E:\2012\MvcCaptcha\MvcCaptcha\obj\Debug\MvcCaptcha.dll
+E:\2012\MvcCaptcha\MvcCaptcha\obj\Debug\MvcCaptcha.pdb
